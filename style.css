@@ -6,8 +6,14 @@ img {
 }
 h1 {
   text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 #extra {
  text-align: center;
+ color: rgb(27, 12, 1);
+}
+
+body {
+ background-color: rgb(227, 219, 212);
 }

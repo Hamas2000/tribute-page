@@ -3,6 +3,8 @@ img {
    max-width: 100%;
    height: auto;
    margin: 0 auto;
+   border: 2px solid rgb(48, 18, 2);
+   
 }
 h1 {
   text-align: center;
@@ -12,8 +14,22 @@ h1 {
 #extra {
  text-align: center;
  color: rgb(27, 12, 1);
+ font-style: italic;
 }
 
 body {
  background-color: rgb(227, 219, 212);
+
+}
+
+#img-caption {
+  text-align: center;
+  font-size: smaller;
+
+}
+
+p {
+  line-height: 2rem;
+  margin: auto 80px;
+ 
 }

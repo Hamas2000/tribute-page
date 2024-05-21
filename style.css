@@ -4,7 +4,6 @@ img {
   height: auto;
   margin: 0 auto;
   border: 2px solid rgb(48, 18, 2);
-  
 }
 
 h1 {
@@ -46,4 +45,23 @@ p {
 
 h2 {
 text-align: center;
+}
+
+h3 {
+  font-size: 20px;
+  text-align: center;
+}
+
+.quote {
+  font-style: italic;
+  margin: 30px 30px 5px;
+  text-align: center;
+}
+
+quote-author {
+  text-indent: 30px;
+}
+
+a {
+  color: #99f;
 }

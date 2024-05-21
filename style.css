@@ -4,6 +4,7 @@ img {
   height: auto;
   margin: 0 auto;
   border: 2px solid rgb(48, 18, 2);
+  
 }
 
 h1 {
@@ -15,10 +16,16 @@ h1 {
   text-align: center;
   color: rgb(27, 12, 1);
   font-style: italic;
+  padding: 10px;
 }
 
 body {
   background-color: rgb(227, 219, 212);
+ border: 0.1rem  rgb(58, 33, 2) solid ;
+ padding-left: 100px;
+ padding-right: 100px;
+ padding-bottom: 80px;
+ font-size: 1.4rem;
 }
 
 #img-caption {
@@ -29,4 +36,14 @@ body {
 p {
   line-height: 2rem;
   margin: auto 80px;
+}
+
+#img-div {
+  background: rgba(255, 255, 255, 0.418);
+  padding: 10px;
+  margin: 0;
+}
+
+h2 {
+text-align: center;
 }

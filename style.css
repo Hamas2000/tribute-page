@@ -20,11 +20,11 @@ h1 {
 
 body {
   background-color: rgb(227, 219, 212);
- border: 0.1rem  rgb(58, 33, 2) solid ;
- padding-left: 100px;
- padding-right: 100px;
- padding-bottom: 80px;
- font-size: 1.4rem;
+  border: 0.1rem rgb(58, 33, 2) solid ;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 80px;
+  font-size: 1.4rem;
 }
 
 #img-caption {
@@ -44,7 +44,7 @@ p {
 }
 
 h2 {
-text-align: center;
+  text-align: center;
 }
 
 h3 {
@@ -58,7 +58,7 @@ h3 {
   text-align: center;
 }
 
-quote-author {
+.quote-author {
   text-indent: 30px;
 }
 

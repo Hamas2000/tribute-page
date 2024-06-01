@@ -12,7 +12,8 @@ Throughout the development process, valuable insights were gained about creating
 
 Check out a preview of the page:
 
-![Technical Documentation page](#)
+![Technical Documentation page]![01 06 2024_16 31 57_REC](https://github.com/Hamas2000/tribute-page/assets/168201374/5056f87b-03d5-4234-81b1-71f5eb880eca)
+
 
 ## Technologies Used 🛠️
 
